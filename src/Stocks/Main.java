@@ -94,6 +94,7 @@ public class Main {
             System.out.print("Name: " + getName(arr, name) + " | ");
             System.out.print("Symbol: " + getSymbol(arr, name) + " | ");
             System.out.print("Market Cap: " + getMcap(arr, name));
+            System.out.println("Thank you for using this program!");
         }
 
 
